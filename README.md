@@ -2,7 +2,7 @@
 
 ### The code should be broken into three different parts:
 
-### Networking (define the VPC and all of its components).
+### Networking (define the VPC and all of its components)..
 
 ### SSH-Key (dynamically create an SSH-key pair for connecting to VMs)
 

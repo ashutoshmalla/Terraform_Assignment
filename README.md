@@ -8,7 +8,7 @@
 
 ### EC2 (deploy a VM in the public subnet, and deploy another VM in a private subnet)
 
-### NGINX should be accessed for all the internet.
+### NGINX should be accessed for all the internet
 
 ### Automate Terraform Deployment with Jenkins Pipelines
 
